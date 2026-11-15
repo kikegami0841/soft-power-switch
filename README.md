@@ -1,4 +1,4 @@
-﻿# pico Soft Power Switch
+﻿# Soft Power Switch for Raspberry Pi Pico
 
 Raspberry Piに使えるソフト・パワースイッチです  
 物理的には電源ONボタンを持ち、電源OFFボタンはシャットダウン手続きを考慮して電源制御される側で準備します  
